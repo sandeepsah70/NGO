@@ -116,11 +116,7 @@ export default function App() {
       <header className="main-header">
         <div className="nav-container">
           <a href="#home" className="logo" aria-label="Shikashvik Welfare Foundation">
-            <img src={logoImg} alt="Shikashvik Welfare Foundation Logo" className="logo-img" />
-            <div className="logo-text-wrap">
-              <span className="logo-main">SHIKASHVIK</span>
-              <small>WELFARE FOUNDATION</small>
-            </div>
+            <img src={logoImg} alt="Shikashvik Welfare Foundation Logo" className="logo-img" style={{ height: '70px', width: 'auto' }} />
           </a>
 
           <button
