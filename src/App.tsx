@@ -444,7 +444,7 @@ export default function App() {
       {/* GALLERY */}
       <section className="gallery-section" id="gallery">
         <h2 className="section-title">
-          OUR <span>GALLERY</span>
+          xxxx
         </h2>
         <div className="gallery-grid">
           <a href="#gallery">
