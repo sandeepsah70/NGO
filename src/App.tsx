@@ -152,6 +152,9 @@ export default function App() {
             <a href="#gallery" onClick={() => setMenuOpen(false)}>
               Gallery
             </a>
+            <a href="#apply-franchise" onClick={() => setMenuOpen(false)}>
+              Apply Franchise
+            </a>
             <a href="#blog" onClick={() => setMenuOpen(false)}>
               Blog & News
             </a>
